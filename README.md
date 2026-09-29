@@ -38,6 +38,34 @@ the important log lines, what you already tried, and a filled-in post you can
 copy into Discord or a GitHub issue. Nothing gets posted anywhere without you
 saying so.
 
+Here's what that file looks like inside:
+
+```markdown
+## TLDR
+- **Title:** External monitor goes black after suspend on NVIDIA
+- **Where to go:** Discord #omarchy-help
+- **Next step:** post the text below + your log link
+
+## What happened
+After waking from suspend, the external monitor is black but the
+laptop screen works. Unplugging and replugging fixes it until next time.
+
+## Steps to reproduce
+1. Plug in the monitor over DisplayPort.
+2. Suspend, then wake the machine.
+3. External monitor is black. Happens every time.
+
+## System
+- Omarchy 4.0.4-1, kernel 6.12.5
+- Ryzen 9, NVIDIA RTX 5090, Dell 27" monitor over DP
+
+## Logs (important lines)
+  <the key error lines go here>
+
+## Ready-to-paste Discord post
+  <filled-in post goes here — just copy it>
+```
+
 ## Another example
 
 > My file manager keeps disappearing when I open folders full of pictures. Why?

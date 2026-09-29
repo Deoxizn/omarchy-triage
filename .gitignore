@@ -1,0 +1,4 @@
+# Generated triage reports stay out of the repo.
+triage-*.md
+omarchy-debug.log
+/tmp/

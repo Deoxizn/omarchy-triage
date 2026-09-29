@@ -39,9 +39,9 @@ Every recommendation names the precise place, never just "Discord" or "GitHub":
 
 ## Discord channel directory
 
-Only `#omarchy-help` is confirmed as a forum channel (title + body posts).
-Treat the rest as regular channels unless told otherwise. Most specific match
-wins; when unsure, `#omarchy-help`.
+`#omarchy-help` and `#omarchy-discussions` are forum channels (title + body
+posts). Treat the rest as regular channels unless told otherwise. Most specific
+match wins; when unsure, `#omarchy-help`.
 
 | Topic | Channel |
 | --- | --- |

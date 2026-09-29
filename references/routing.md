@@ -34,8 +34,39 @@ Every recommendation names the precise place, never just "Discord" or "GitHub":
 - Discord route → the exact channel name (e.g. `#omarchy-help`).
 - GitHub route → issue tracker vs Discussions, plus the category
   (e.g. `Discussions → Suggestions`).
-- Never invent channel or category names. If you know the server/repo but not
-  the exact channel, say so plainly and let the user pick.
+- Never invent channel or category names. Use the directory below; if nothing
+  fits, default to `#omarchy-help` and say so.
+
+## Discord channel directory
+
+Only `#omarchy-help` is confirmed as a forum channel (title + body posts).
+Treat the rest as regular channels unless told otherwise. Most specific match
+wins; when unsure, `#omarchy-help`.
+
+| Topic | Channel |
+| --- | --- |
+| Something's off but you're not sure what — the default | `#omarchy-help` |
+| General chat / open discussion | `#omarchy`, `#omarchy-discussions` |
+| Games on Omarchy | `#omarchy-gaming` |
+| Kid-related setup / use | `#omarchy-kids` |
+| Non-x86_64 CPUs, unusual architectures | `#omarchy-on-other` |
+| ARM hardware | `#omarchy-arm` |
+| Newer Apple devices (M-series) | `#omarchy-m-series` |
+| Older Apple hardware | `#omarchy-vintage-apple` |
+| Shell plugins | `#omarchy-plugins` |
+| Apps in general / Android apps | `#omarchy-apps`, `#omarchy-android-apps` |
+| Kernel issues | `#omarchy-kernel` |
+| Packages | `#omarchy-pkgs` |
+| Themes | `#omarchy-themes` |
+| Design talk | `#omarchy-design` |
+| Edge / DEV channel feedback | `#omarchy-testing-feedback` |
+| Security discussion (not vulnerability reports — those stay private) | `#omarchy-security` |
+| NVIDIA drivers / GPUs | `#nvidia` |
+| Neovim | `#neovim` |
+| AI in general / local AI / self-hosting | `#ai-general`, `#local-ai`, `#homelab` |
+| General Linux (not Omarchy-specific) | `#linux-general` |
+| Headless server project | `#omaterm` |
+| Anything else | `#offtopic` |
 
 ## What to tell the user per route
 

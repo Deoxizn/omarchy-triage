@@ -104,7 +104,9 @@ rather than opening a new issue. A bare "me too" is noise — file nothing.
 ### 5. Emit both outputs
 
 1. **Chat TLDR** (≤8 lines): proposed title (`<object> — <deviation>`, ≤60 chars),
-   one-line summary, route + why, single most useful next command or link.
+   one-line summary, route with the exact destination (channel name or
+   tracker + category, e.g. `Discord #omarchy-help`, `Discussions → Suggestions`)
+   + why, single most useful next command or link.
 2. **Full report file**: write `./triage-<slug>.md` from
    `assets/report-template.md`. Paste key log lines inline (survives the 24h
    `logs.omarchy.org` expiry); link or attach the full `omarchy-debug.log`.

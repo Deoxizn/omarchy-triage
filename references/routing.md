@@ -27,6 +27,16 @@ Pick exactly one. When in doubt, start in Discord.
    packaging/config is implicated. Say so and stop; suggest the right upstream,
    don't file there yourself.
 
+## Name the exact destination
+
+Every recommendation names the precise place, never just "Discord" or "GitHub":
+
+- Discord route → the exact channel name (e.g. `#omarchy-help`).
+- GitHub route → issue tracker vs Discussions, plus the category
+  (e.g. `Discussions → Suggestions`).
+- Never invent channel or category names. If you know the server/repo but not
+  the exact channel, say so plainly and let the user pick.
+
 ## What to tell the user per route
 
 - `discord-help`: `#omarchy-help` is a forum channel (title + body, stays

@@ -78,6 +78,18 @@ Next step: `coredumpctl list` to see the recent crashes.
 Full details saved to: ./triage-file-manager-crash.md
 ```
 
+## One more example
+
+> It would be nice if the screen recorder could also capture the webcam. Is that a bug?
+
+```text
+Title: Screen recorder + webcam overlay (feature idea)
+Problem: not a bug — nothing is broken, it's a request for something new.
+Where to go: GitHub Discussions → Suggestions category. Not Discord, not an issue.
+Next step: describe what you'd want it to do; the skill drafts the post for you.
+Full details saved to: ./triage-screenrecord-webcam-idea.md
+```
+
 ## Works with
 
 Any coding agent Omarchy can open (opencode, claude, codex, crush, copilot,
